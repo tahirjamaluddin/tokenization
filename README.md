@@ -1,5 +1,5 @@
 # tokenization
-**ARL token/cryptocurrency **
+**ARL token/cryptocurrency**
 Tokenization for Fan points & tokens, KYC & Token sale feature.
 A UI to whitelist the addresses which can buy the tokens.
 
